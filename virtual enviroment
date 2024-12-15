@@ -1,0 +1,5 @@
+pip install virtualenv
+virtualenv venv
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+venv\Scripts\activate.ps1
+deactivate
